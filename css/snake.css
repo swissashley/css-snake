@@ -1,0 +1,17 @@
+.grid {
+  list-style: none;
+  width: 420px;
+  height: 420px;
+  float: left;
+  border: 3px black solid;
+  margin: 0;
+  padding: 0;
+}
+
+.tile {
+  border: 1px black solid;
+  float: left;
+  width: 40px;
+  height: 40px;
+  margin: 0;
+}
